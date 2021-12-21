@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "flutter-sns-0922"
-  }
+    "default": "flutter-sns-0922",
+    "staging": "handson-flutter-sns-8d20b"
+  },
+  "targets": {}
 }
